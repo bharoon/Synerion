@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synerion", "Synerion\Syneri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynerionTest", "SynerionTest\SynerionTest.csproj", "{55467E6C-9DD0-4353-98B9-55ABCF7FF114}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8E2A852-105B-4CD0-BF54-EFDB3318B26D}"
+	ProjectSection(SolutionItems) = preProject
+		..\Synerion - CSharp Challenge 2017.docx = ..\Synerion - CSharp Challenge 2017.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
